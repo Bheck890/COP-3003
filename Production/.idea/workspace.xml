@@ -75,7 +75,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectId" id="1gZFrK4p48QGDHmw1hHkQgFnqAA" />
+  <component name="ProjectId" id="1geUrLwWwoXi9qI8arPFhz5to67" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -96,17 +96,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="D:/SDK/Java/javafx-sdk-11.0.2/lib" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Brandon\OneDrive - Florida Gulf Coast University\Classes\5 Object Programing\Projects\Git Hub\COP-3003\FXML Hello\src\sample" />
-      <recent name="C:\Users\Brandon\OneDrive - Florida Gulf Coast University\Classes\5 Object Programing\Projects\Git Hub\COP-3003\FXML Hello\src\resource" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -136,7 +130,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="FXML Hello" />
+      <module name="Production" />
       <option name="VM_PARAMETERS" value="--module-path &quot;D:\SDK\Java\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
@@ -152,19 +146,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -210,10 +191,8 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1598314409766" duration="1740000" />
-      <workItem from="1598316835795" duration="233000" />
-      <workItem from="1598317087366" duration="1626000" />
-      <workItem from="1598473039536" duration="1709000" />
+      <workItem from="1598474757686" duration="1910000" />
+      <workItem from="1598478190133" duration="930000" />
     </task>
     <servers />
   </component>
@@ -237,44 +216,41 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598473884892">
+    <state x="2360" y="94" key="#Project_Structure" timestamp="1598474864365">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598473884892" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598318678697" />
-    <state x="2586" y="261" key="FileChooserDialogImpl" timestamp="1598474563411">
+    <state x="2360" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598474864365" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598474904077">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2586" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598474563411" />
-    <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598316674919" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1598474755294">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598474904077" />
+    <state x="2508" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1598477441237">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598474755294" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598318713967" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1598474755294">
+    <state x="2508" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598477441237" />
+    <state x="2586" y="261" key="FileChooserDialogImpl" timestamp="1598478652663">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598474755294" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598318713967" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1598474755294">
+    <state x="2586" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598478652663" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1598479124811">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598474755294" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598318713967" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1598474755294">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598479124811" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1598479124811">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598474755294" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598318713967" />
-    <state x="2360" y="94" key="SettingsEditor" timestamp="1598473701033">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598479124811" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1598479124811">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598473701033" />
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598317007895" />
-    <state x="2262" y="181" key="new project wizard" timestamp="1598474748953">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598479124811" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1598479124811">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2262" y="181" key="new project wizard/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598474748953" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598479124811" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1598478841998">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1600.-228.1600.860@1920.0.1920.1040" timestamp="1598478841998" />
   </component>
 </project>
